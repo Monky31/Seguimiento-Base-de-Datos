@@ -1,4 +1,4 @@
-# Seguimiento-Base-de-Datos
+# Seguimiento-Base-de-Datos Sofia Lopez-Mateo Lastra
 # Proyecto Académico: Solución en 3 Tablas (MySQL + PHP + PDO)
 **Universidad de La Salle** · Asignatura: Bases de Datos
 
